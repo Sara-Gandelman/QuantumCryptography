@@ -7,3 +7,4 @@ The code that reads the results and calculates the needed statistics: countin_be
 The data should be imported to the matlab code as shown in: mes_for_matlab.xlsx
 To choose the random bases and bits we used a python code: main.py
 The simulation written in python is: Simulation.py
+![Unknown](https://user-images.githubusercontent.com/79987925/143229194-71325469-6ce7-4b46-b39c-749141ce729e.jpeg)
